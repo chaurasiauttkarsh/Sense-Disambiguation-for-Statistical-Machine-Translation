@@ -1,0 +1,11 @@
+@InProceedings{pelevina-EtAl:2016:RepL4NLP,
+  author    = {Pelevina, Maria  and  Arefiev, Nikolay  and  Biemann, Chris  and  Panchenko, Alexander},
+  title     = {Making Sense of Word Embeddings},
+  booktitle = {Proceedings of the 1st Workshop on Representation Learning for NLP},
+  month     = {August},
+  year      = {2016},
+  address   = {Berlin, Germany},
+  publisher = {Association for Computational Linguistics},
+  pages     = {174--183},
+  url       = {http://anthology.aclweb.org/W16-1620}
+}
